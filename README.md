@@ -1,7 +1,11 @@
 Hi 👋 My name is FAID DJAMELEDDINE
 ==================================
 
-\>web deb >ux/ui >dev app >computer architecture >Theoretical computer science
+>web dev,
+>ux/ui,
+>dev app,
+>computer architecture,
+>Theoretical computer science;
 
 ### Skills
 

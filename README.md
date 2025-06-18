@@ -1,4 +1,4 @@
-Hi 👋 My name is FAID DJAMELEDDINE
+Hi 👋 i am FAID DJAMELEDDINE
 ==================================
 
 \>web deb >ux/ui >dev app >computer architecture >Theoretical computer science
